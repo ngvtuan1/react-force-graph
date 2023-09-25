@@ -45,7 +45,7 @@
   "dependencies": {
     "3d-force-graph-vr": "2",
     "prop-types": "15",
-    "react-kapsule": "2"
+    "react-kapsule": "2.2.2"
   },
   "peerDependencies": {
     "react": "*"
